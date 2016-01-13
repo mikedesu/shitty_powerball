@@ -1,6 +1,10 @@
 # shitty_powerball
 A really shitty way to look at frequency of winning numbers for Power Ball lotto
 
+### Winning Numbers source
+
+[http://www.powerball.com/powerball/winnums-text.txt](http://www.powerball.com/powerball/winnums-text.txt)
+
 ### To compile
 
 ```
